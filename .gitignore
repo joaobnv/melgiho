@@ -23,3 +23,6 @@ go.work.sum
 
 # env file
 .env
+
+# the script that installs the hooks
+install
